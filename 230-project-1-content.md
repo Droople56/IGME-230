@@ -28,7 +28,7 @@ Cartoony, playful
   - spacebar -  alt primary fire
   - "e/E" - alt use powerup
   - "p/P" for pause
--Mouse
+- mouse:
   - focus mouse to rotate
   - left click - primary fire
   - right click - use powerup
