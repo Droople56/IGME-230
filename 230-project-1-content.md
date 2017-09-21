@@ -40,7 +40,8 @@ Display UI screen with images explaining the controls.
 There's not really a learning curve, if the player lasts long they're good.
 
 ## Screenshots
-
+[Monk Ley preparing](http://mycountry955.com/files/2011/07/monkey.jpg?w=600&h=0&zc=1&s=0&a=t&q=89)
+[Monk Ley victorious](https://i.ytimg.com/vi/6ExG0pzQOwI/maxresdefault.jpg)
 
 ## Other
 
